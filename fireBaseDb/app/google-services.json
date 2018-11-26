@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "177186498317",
+    "firebase_url": "https://fir-db-2c394.firebaseio.com",
+    "project_id": "fir-db-2c394",
+    "storage_bucket": "fir-db-2c394.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177186498317:android:7adbbbe8f3b539bd",
+        "android_client_info": {
+          "package_name": "nikhilchauhan.com.firebasedb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177186498317-d2p8rl592eo5shht0olpaspefcgup1bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiV_jscQmETScEjKH0daS5OyunR62uxy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

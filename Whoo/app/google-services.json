@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "334302575367",
+    "firebase_url": "https://whoo-1d1ca.firebaseio.com",
+    "project_id": "whoo-1d1ca",
+    "storage_bucket": "whoo-1d1ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334302575367:android:bd5f984477037c0e",
+        "android_client_info": {
+          "package_name": "nikhilchauhan.com.whoo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334302575367-dhd0e2j2osfbcl2nabioiskdpgpui3as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nikhilchauhan.com.whoo",
+            "certificate_hash": "d50bcb86ca1739e2978f8bdc963c61c62b68c5da"
+          }
+        },
+        {
+          "client_id": "334302575367-fv6tn81f5fp2gtelrlht08dnk4j1ev79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDis3SPn-62uSgfBsKdtMuCInAPGRtN4UE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334302575367-fv6tn81f5fp2gtelrlht08dnk4j1ev79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
