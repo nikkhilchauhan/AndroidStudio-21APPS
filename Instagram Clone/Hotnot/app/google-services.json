@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "238390025837",
+    "firebase_url": "https://hotnot-28bd5.firebaseio.com",
+    "project_id": "hotnot-28bd5",
+    "storage_bucket": "hotnot-28bd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238390025837:android:d9748d54e8fddd1b",
+        "android_client_info": {
+          "package_name": "co.hotnot.nikhil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238390025837-p04doimvcj5vcs7r8move48lfff15n64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.hotnot.nikhil",
+            "certificate_hash": "d50bcb86ca1739e2978f8bdc963c61c62b68c5da"
+          }
+        },
+        {
+          "client_id": "238390025837-0vn6em9jrd2l77c3ul4jq82mp5n17frn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5aiLhDChIMZonwC2duuxI_jR1nDkbc7o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238390025837-0vn6em9jrd2l77c3ul4jq82mp5n17frn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

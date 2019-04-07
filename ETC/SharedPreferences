@@ -1,0 +1,18 @@
+//WRITING DATA{
+        SharedPreferences loginData = getSharedPreferences("userInfo", Context.MODE_PRIVATE);
+        SharedPreferences.Editor editor = loginData.edit();
+        editor.putString("userName", userName.getText().toString());
+        editor.putString("password", password.getText().toString());
+        editor.apply();
+        Toast.makeText(this,"Saved",Toast.LENGTH_LONG).show();
+    }
+
+//READING DATA{
+        SharedPreferences loginData = getSharedPreferences("userInfo", Context.MODE_PRIVATE);
+        String name = loginData.getString("userName", "");
+        String pw = loginData.getString("password","");
+    }
+//DELETING DATA{
+    loginData.edit().remove("userName").commit();
+    loginData.edit().remove("password").commit();
+}

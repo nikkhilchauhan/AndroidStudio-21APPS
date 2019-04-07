@@ -1,0 +1,9 @@
+//ProgressDialog - Creating through code(no XML)
+final ProgressDialog progressDialog = new ProgressDialog(this);
+progressDialog.setTitle("Processing...");
+progressDialog.setMessage("Please wait...");
+progressDialog.setCancelable(false);
+progressDialog.setProgessStyle(ProgressDialog.STYLE_SPINNER);
+
+//Cancelling ProgressBar
+progressDialog.dismiss();
